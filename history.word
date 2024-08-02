@@ -1,0 +1,47 @@
+$ history
+    1  git status
+    2  git init
+    3  touch sameer.pynnnnn
+    4  touch abhijeet.cpp
+    5  cat> abcd.txt
+    6  cat abcd.txt
+    7  notepad abhijeet.py
+    8  notepad abhijeet.py
+    9  cat abhijeet.py
+   10  cat>abhijeet.py
+   11  git status
+   12  git add.
+   13  git add  .
+   14  git status
+   15  git commit .
+   16  git status
+   17  git push -u origin main
+   18  git remote add origin https://github.com/abhijeet454/amarendra.git
+   19  git branch -M main
+   20  git push .
+   21  git push -u origin main
+   22  git status
+   23  git checkout abcd.txt
+   24  git status
+   25  ls
+   26  git add .
+   27  git commit -m "amarendra"
+   28  git statu
+   29  git status
+   30  git remote add origin https://github.com/abhijeet454/pagelive.git
+   31  git branch -M main
+   32  git remote add origin https://github.com/abhijeet454/pagelive.git
+   33  git branch -M main
+   34  git push -u origin main
+   35  git remote add origin https://github.com/abhijeet454/pagelive.git
+   36  git init
+   37  git add .
+   38  git commit -m "Page live"
+   39  git remote add origin https://github.com/abhijeet454/pagelive.git
+   40  git branch -M main
+   41  git push -u origin main
+   42  git status
+   43  vi afsf.txt
+   44  cat afsf.txt
+   45  history
+
